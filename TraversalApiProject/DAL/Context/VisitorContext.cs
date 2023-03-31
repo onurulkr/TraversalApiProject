@@ -17,3 +17,4 @@ namespace TraversalApiProject.DAL.Context
         public DbSet<Visitor> Visitors { get; set; }
     }
 }
+ 
